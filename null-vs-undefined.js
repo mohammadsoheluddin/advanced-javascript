@@ -9,7 +9,7 @@ function add(num1, num2){
 
 const result = add(13, 82);
 console.log(result);
-// in this case you will get your result 95 with undefined.
+// in this case you will get your result 95 with undefined for reason you didn't return anything.
 */
 
 

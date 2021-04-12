@@ -152,8 +152,13 @@ else{
 // undefined
 // null
 // NaN
+// 'false'
+
 // Truthy:
 // '0', ' '
+// []
+// {}
+// false
 
 
 /** 
